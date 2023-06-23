@@ -1,2 +1,2 @@
 app:
-  hello: Hello after refresh
+  hello: Hello after refresh via ConfigurationProperties
